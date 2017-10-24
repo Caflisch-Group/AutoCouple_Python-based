@@ -8,7 +8,7 @@ The methodology requires the use of three Python-encoded scripts:
 - the first type (AutoCouple_Script_1.py) retreaves building-blocks libraries from various chemicals providers (provided by user as inputs) and generates a uniquified library of building-blocks based on their CAS number (heavy metals-, resin-containing compounds are discarded)
 
 
-- the second type (AutoCouple_Script_12.py) filters and sorts out each building-block based on the chemical functionalities it contains ( for instance amines, boronic acids, halides...). The output files are libraries of reactants calle
+- the second type (AutoCouple_Script_2.py) filters and sorts out each building-block based on the chemical functionalities it contains ( for instance amines, boronic acids, halides...). The output files are libraries of reactants calle
 d Rx_"name_of_the_functionality".sdf
 
 
